@@ -1,0 +1,16 @@
+{
+	"name": "akarande/hello-world",
+	"description": "This is first hello world package to host on packagist.",
+	"type": "library",
+	"license": "MIT",
+	"authors": [
+		{
+			"name": "Amol Bhujangrao Karande",
+			"email": "akarande@xento.com"
+		}
+	],
+	"minimum-stability": "dev",
+	"require": {
+		"php": ">=7.0"
+	}
+}
